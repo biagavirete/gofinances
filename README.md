@@ -5,17 +5,17 @@ Challenge 07 of GoStack Bootcamp ([Rocketseat](https://rocketseat.com.br/) :rock
 * Challenge description: [https://git.io/JTjcj](https://git.io/JTjcj)
 
 <p align="center" width="100%">
-    <img src="https://github.com/biagavirete/gofinance/blob/master/src/assets/sampleimage.png">
+    <img src="https://github.com/biagavirete/gofinances/blob/master/src/assets/sampleimage.png">
 </p>
 
 ## Getting started
 
 **Installing**
->Cloning the repository
+> Cloning the repository
 
 ```bash
-$ git clone https://github.com/biagavirete/gorestaurant.git
-$ cd gorestaurant
+$ git clone https://github.com/biagavirete/gofinances.git
+$ cd gofinances
 ```
 
 **Running**
